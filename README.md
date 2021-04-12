@@ -8,6 +8,8 @@ Contact me through 'icetime963@gmail.com' :)
 
 Thanks!
 
+<br>
+<br>
 
 안녕하세요! 방문에 감사드립니다.
 
