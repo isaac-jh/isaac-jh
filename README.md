@@ -6,7 +6,7 @@
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Spring,Java,Vue.js)](https://github.com/bingsu-kun)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages_and_Frameworks&badges=Spring,Java,JavaScript,Vue.js,Python)](https://github.com/bingsu-kun)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages_and_Frameworks&badges=Spring,Java,JavaScript,Vue.js,Python,Android)](https://github.com/bingsu-kun)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database_and_DevOps&badges=PostgreSQL,Docker,MariaDB,AmazonEC2,GCP,Kubernetes,Git,Github,Jenkins,Redis)](https://github.com/bingsu-kun)
 
