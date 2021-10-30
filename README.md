@@ -1,6 +1,7 @@
+Hephai Bingsu Blacksmith Fisher Chef Goal-keeper Early-Adopter / try to become a Master
+---
 
-
-[![resume]](https://www.notion.so/icetime96/Hephai-350d5e96911b4c3182ed1b3109fca36a) <- Notion Resume
+[![resume]](https://www.notion.so/icetime96/Hephai-350d5e96911b4c3182ed1b3109fca36a)
 
 [![GitHub Stats]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
 
