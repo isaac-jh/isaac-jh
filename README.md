@@ -1,4 +1,4 @@
-Hephai Bingsu Blacksmith Fisher Chef Goal-keeper Early-Adopter / try to become a Master
+Hephai Blacksmith Fisher Chef Goal-keeper Early-Adopter / try to become a Master
 ---
 
 [![resume]](https://www.notion.so/icetime96/Hephai-350d5e96911b4c3182ed1b3109fca36a)
