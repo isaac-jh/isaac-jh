@@ -10,7 +10,7 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database_and_DevOps&badges=PostgreSQL,Docker,MariaDB,AmazonEC2,GCP,Kubernetes,Git,Github,Jenkins,Redis)](https://github.com/bingsu-kun)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Other_Skills&badges=Adobe Premiere pro, Adobe AfterEffect, Adobe Photoshop)](https://github.com/bingsu-kun)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Other_Skills&badges=PremierePro,AfterEffect,Photoshop)](https://github.com/bingsu-kun)
 
 <!-- ref -->
 
