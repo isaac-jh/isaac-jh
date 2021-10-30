@@ -10,6 +10,8 @@
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Database_and_DevOps&badges=PostgreSQL,Docker,MariaDB,AmazonEC2,GCP,Kubernetes,Git,Github,Jenkins,Redis)](https://github.com/bingsu-kun)
 
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Other_Skills&badges=Adobe Premiere pro, Adobe AfterEffect, Adobe Photoshop)](https://github.com/bingsu-kun)
+
 <!-- ref -->
 
 [resume]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&message=Resume&logo=notion&#000000
