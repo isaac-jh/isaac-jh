@@ -1,15 +1,15 @@
-Try to become a Master
+Tech for Better Life
 ---
 
 [![resume]](https://www.notion.so/icetime96/Hephai-350d5e96911b4c3182ed1b3109fca36a)
 
 [![GitHub Stats]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Spring,Java,Vue.js)](https://github.com/bingsu-kun)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=FastAPI,Python,Spring)](https://github.com/bingsu-kun)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages_and_Frameworks&badges=Spring,Java,JavaScript,Vue.js,Python,Android)](https://github.com/bingsu-kun)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages_and_Frameworks&badges=FastAPI,Python,Spring,Java,JavaScript,Vue.js,Android)](https://github.com/bingsu-kun)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database_and_DevOps&badges=PostgreSQL,Docker,MariaDB,AmazonEC2,GCP,Kubernetes,Git,Github,Jenkins,Redis)](https://github.com/bingsu-kun)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database_and_DevOps&badges=PostgreSQL,Docker,MongoDB,AmazonEC2,GCP,Kubernetes,Git,Github,Jenkins,Redis)](https://github.com/bingsu-kun)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Other_Skills&badges=PremierePro,AfterEffect,Photoshop)](https://github.com/bingsu-kun)
 
