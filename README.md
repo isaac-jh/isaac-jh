@@ -5,14 +5,6 @@ Tech for Better Life
 
 [![GitHub Stats]](https://github.com/anuraghazra/github-readme-stats "GitHub Readme Stats")
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=FastAPI,Python,Spring)](https://github.com/bingsu-kun)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages_and_Frameworks&badges=FastAPI,Python,Spring,Java,JavaScript,Vue.js,Android)](https://github.com/bingsu-kun)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Database_and_DevOps&badges=PostgreSQL,Docker,MongoDB,AmazonEC2,GCP,Kubernetes,Git,Github,Jenkins,Redis)](https://github.com/bingsu-kun)
-
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Other_Skills&badges=PremierePro,AfterEffect,Photoshop)](https://github.com/bingsu-kun)
-
 <!-- ref -->
 
 [resume]: https://img.shields.io/static/v1?style=for-the-badge&color=000000&logoColor=ffffff&label=&message=Resume&logo=notion&#000000
