@@ -1,4 +1,1 @@
-Tech for Better Life
----
-
-Profile image from [HERE](https://www.pixiv.net/users/1096811)
+# 백엔드 개발자, 이장훈입니다
