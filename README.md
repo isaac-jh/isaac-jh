@@ -14,8 +14,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaac-jh&show_icons=true&theme=radium" alt="isaac-jh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-jh&layout=compact&theme=radium" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaac-jh&show_icons=true&theme=radium" alt="isaac-jh's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaac-jh&layout=compact&theme=radium" alt="Top Langs" />
 </div>
 
 <br/>
